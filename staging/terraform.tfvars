@@ -1,0 +1,6 @@
+rgname                 = "stage-kiran-rg"
+service_principal_name = "stage-kiran-spn"
+keyvault_name          = "stage-kiran-kv-101"
+SUB_ID = "8136cc0a-4f3b-4d03-8fdc-b2a35fde5395"
+node_pool_name = "stagenp"
+cluster_name = "stage-kiran-cluster"
